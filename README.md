@@ -1,1 +1,1 @@
-# Kodluyoruz CSS Homework-2
+www.patika.dev CSS Homework-2
